@@ -26,7 +26,7 @@ The following models are implemented and compared in this project:
 To get started with this project, follow these steps:
 1. Clone the repository: `git clone <repository-url>`
 2. Install the necessary dependencies: `pip install -r requirements.txt`
-3. Explore the Jupyter Notebook: `digit_classifier.ipynb`
+3. Explore the Jupyter Notebook: `Handwritten_Digits_Classifier.ipynb`
 4. Run the notebook cells to train and evaluate the models.
 
 ## Contributing
